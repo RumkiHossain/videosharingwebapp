@@ -1,0 +1,10 @@
+-- Install Xampp
+-- Run and Start Xampp controll panel
+-- Change php(ini config) --> 
+            post_max_size
+            max_upload_size
+            max_file_zise
+   increase those file size...
+
+-- paste "VideoSharingWebApp" folder in tne htdocs folder
+-- then open browser and go "localhost/videosharingwebapp/index.php"
